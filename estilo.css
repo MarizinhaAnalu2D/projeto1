@@ -6,11 +6,11 @@
 }
 
 body{
-    background-color: #DAF9DE;
+    background-color: #FFFDEB;
     font-family:  font-family: "Cormorant", serif;
 }
 .cabecalho{ 
-     background-color:#169976; 
+     background-color:#CE2626; 
      display: flex; 
      justify-content: space-between;
      padding: 15px 25px;

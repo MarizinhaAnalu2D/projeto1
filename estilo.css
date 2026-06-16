@@ -18,3 +18,10 @@ body{
      align-items: center;
 }
 
+.cartão {
+   width: 260px;
+   height: 200px;
+}
+.cartão img{
+    width: 80%;
+}

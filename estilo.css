@@ -42,7 +42,7 @@ main{
 transform: rotateY(180deg);
 }
 .cartao-verso{
-    transform: totateY(180deg);
+    transform: rotateY(180deg);
 }
 .cartao-frente, .cartao-verso{
         position: absolute;
